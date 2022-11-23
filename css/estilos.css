@@ -1,0 +1,9 @@
+@font-face {
+    font-family:"madbulls";
+    src: url('font/SF Sports Night.ttf') format('ttf');
+  }
+
+  body{
+    color:blue;
+    font-family: Comic Sans;
+  }
